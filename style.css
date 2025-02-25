@@ -145,7 +145,7 @@ header .text-content .job{
 .buttons button:hover{
   transform: scale(0.97);
 }
-.content .girl img{
+.content .boy img{
   position: absolute;
   height: 95%;
   bottom: 0;
